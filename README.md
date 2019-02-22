@@ -1,4 +1,9 @@
 
+Steps to execute program:
+
+Run main() method in UniqueWordCounter class
+
+
 This code is tested only for reading file in the same folder in project, and can be tested in future for more features.
 
  Steps
