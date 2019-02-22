@@ -1,8 +1,11 @@
 import java.io.File;
 import java.io.IOException;
 import java.util.Map;
-import java.util.Scanner;
+// import java.util.Scanner;
 
+/**
+ * Unique words calculator in a text file and lists top 10 occurences, assuming hyphen and apostrophe as part of word
+ */
 public class UniqueWordCounter {
     public static void main(String[] args) throws IOException {
         MapUtils mu = new MapUtils();
